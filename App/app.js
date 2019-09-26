@@ -9,12 +9,6 @@ GAME RULES:
 
 */
 
-// document.querySelector(`#current-${activePlayer}`).textContent = dice
-// document.querySelector(`#current-${activePlayer}`).innerHTML = `<em>${dice}</em>`
-
-// const x = document.querySelector(`#current-${activePlayer}`)
-// console.log('x:', x)
-
 let scores,
     roundScore,
     activePlayer,
